@@ -1,0 +1,1 @@
+nuget pack Proutines.csproj -IncludeReferencedProjects -ForceEnglishOutput -Prop Configuration=Release

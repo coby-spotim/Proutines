@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>10.2</version>
+    <title>$title$</title>
+    <authors>Amit Ozalvo</authors>
+    <owners>$author$</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Coroutine system for .net</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>Proutines Coroutines Coroutine</tags>
+  </metadata>
+</package>
